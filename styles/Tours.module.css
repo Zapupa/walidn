@@ -1,0 +1,22 @@
+.document {
+  background-color: #1b6ac6;
+}
+
+.wrapper {
+  max-width: 1260px;
+  /* border: 1px solid black; */
+
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  gap: 50px;
+}
+
+.main {
+  max-width: 1260px;
+  background-color: #fff;
+  border-radius: 10px;
+}

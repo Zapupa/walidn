@@ -1,0 +1,30 @@
+.wrapper {
+  position: relative;
+}
+
+.input {
+  background-color: rgba(255, 255, 255, 20%);
+  border: none;
+  width: 244px;
+  height: 48px;
+  border-radius: 10px;
+
+  font-size: 20px;
+  font-weight: 400px;
+  line-height: 30px;
+  color: #fff;
+
+  padding: 9px 13px 9px 51px;
+}
+
+.input::placeholder {
+  color: rgba(255, 255, 255, 60%);
+}
+
+.img {
+  position: absolute;
+
+  left: 15px;
+  top: 13px;
+  cursor: pointer;
+}

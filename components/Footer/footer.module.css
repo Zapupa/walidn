@@ -1,0 +1,10 @@
+.wrapper {
+  width: 100%;
+  height: 100px;
+
+  background-color: #1b6ac6;
+
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+}
